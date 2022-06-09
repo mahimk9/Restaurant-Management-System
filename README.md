@@ -7,3 +7,4 @@ Ayush Kast
 Bhumil Dave
 
 # Contributors Listed In Code
+[Vidhi](https://github.com/vshah-21)
