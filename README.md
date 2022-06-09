@@ -7,6 +7,7 @@ Ayush Kast
 Bhumil Dave
 
 # Contributors :
-[Mahim](https://github.com/mahimk9)
-[Vidhi](https://github.com/vshah-21)
-[Bhumil](https://github.com/bhumildave91)
+[Mahim Kapoor](https://github.com/mahimk9)
+[Vidhi Shah](https://github.com/vshah-21)
+[Bhumil Dave](https://github.com/bhumildave91)
+[Ayush Kast](https://github.com/AyushKast23)
