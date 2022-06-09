@@ -6,5 +6,10 @@ Vidhi Shah
 Ayush Kast
 Bhumil Dave
 
-# Contributors Listed In Code
+# Contributors :
+[Mahim](https://github.com/mahimk9)
 [Vidhi](https://github.com/vshah-21)
+[Bhumil] (https://github.com/bhumildave91)
+
+
+
