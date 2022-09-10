@@ -1,5 +1,5 @@
 # Restaurant-Management-System
-Restaurant Management System created using C language and Doubly Linked List.
+Restaurant Management System created using C language and DS Doubly Linked List.
 
 # Contributors :
 [Mahim Kapoor](https://github.com/mahimk9),
